@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.quiz {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    /* display: flex; */
+    /* justify-content: center; */
+    text-align: center;
+}
+/*
+#word {
+    text-align: center;
+}
+
+input {
+    text-align: center;
+}
+#feedback {
+    text-align: center;
+}
+
+#result {
+    text-align: center;
+}
+
+#Deutsch {
+    text-align: center;
+}
+
+#slovensky {
+    text-align: center;
+}
+
+ */
